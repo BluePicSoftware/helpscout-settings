@@ -497,47 +497,37 @@ footer p a {
 
 /* Project setup */
 .category-list .category#category-4::after {
-  mask-image: url("https://www.helpscout.com/icons/users.svg");
+  mask-image: url("https://raw.githubusercontent.com/BluePicSoftware/helpscout-settings/master/icons/project-setup.svg");
 }
 
 /* Design your template */
 .category-list .category#category-13::after {
-  mask-image: url("https://www.helpscout.com/icons/users.svg");
+  mask-image: url("https://raw.githubusercontent.com/BluePicSoftware/helpscout-settings/master/icons/design-your-template.svg");
 }
 
 /* Input form */
 .category-list .category#category-14::after {
-  mask-image: url("https://www.helpscout.com/icons/users.svg");
+  mask-image: url("https://raw.githubusercontent.com/BluePicSoftware/helpscout-settings/master/icons/input-form.svg");
 }
 
-/* Responsivness */
+/* Responsiveness */
 .category-list .category#category-21::after {
-  mask-image: url("https://www.helpscout.com/icons/users.svg");
+  mask-image: url("https://raw.githubusercontent.com/BluePicSoftware/helpscout-settings/master/icons/responsiveness.svg");
 }
 
 /* Publish your template */
 .category-list .category#category-27::after {
-  mask-image: url("https://www.helpscout.com/icons/users.svg");
+  mask-image: url("https://raw.githubusercontent.com/BluePicSoftware/helpscout-settings/master/icons/publish-your-template.svg");
 }
 
 /* Template formats */
 .category-list .category#category-34::after {
-  mask-image: url("https://www.helpscout.com/icons/users.svg");
+  mask-image: url("https://raw.githubusercontent.com/BluePicSoftware/helpscout-settings/master/icons/template-formats.svg");
 }
 
 /* Integrations */
 .category-list .category#category-37::after {
-  mask-image: url("https://www.helpscout.com/icons/users.svg");
-}
-
-/* Manage Docs */
-.category-list .category#category-126::after {
-  mask-image: url("https://www.helpscout.com/icons/settings-sliders.svg");
-}
-
-/* Customize Your Docs Site */
-.category-list .category#category-217::after {
-  mask-image: url("https://www.helpscout.com/icons/pencil.svg");
+  mask-image: url("https://raw.githubusercontent.com/BluePicSoftware/helpscout-settings/master/icons/integrations.svg");
 }
 
 .category-list .category:hover {
