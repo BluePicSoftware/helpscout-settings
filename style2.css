@@ -547,7 +547,7 @@ footer p a {
 
 /* Subscriptions */
 .category-list .category#category-48::after {
-  mask-image: url("https://raw.githubusercontent.com/BluePicSoftware/helpscout-settings/master/icons/subscriptions.svg");
+  mask-image: url("https://raw.githubusercontent.com/BluePicSoftware/helpscout-settings/master/icons/subscription.svg");
 }
 
 .category-list .category:hover {
