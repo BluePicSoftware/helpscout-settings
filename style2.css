@@ -535,23 +535,18 @@ footer p a {
   mask-image: url("https://raw.githubusercontent.com/BluePicSoftware/helpscout-settings/master/icons/team-setup.svg");
 }
 
-/* Team Hub */
-.category-list .category#category-42::after {
-  mask-image: url("https://raw.githubusercontent.com/BluePicSoftware/helpscout-settings/master/icons/team-hub.svg");
-}
-
 /* Templates */
-.category-list .category#category-42::after {
+.category-list .category#category-46::after {
   mask-image: url("https://raw.githubusercontent.com/BluePicSoftware/helpscout-settings/master/icons/templates.svg");
 }
 
-/* Subscriptions */
-.category-list .category#category-42::after {
-  mask-image: url("https://raw.githubusercontent.com/BluePicSoftware/helpscout-settings/master/icons/subscriptions.svg");
+/* Team Hub */
+.category-list .category#category-52::after {
+  mask-image: url("https://raw.githubusercontent.com/BluePicSoftware/helpscout-settings/master/icons/team-hub.svg");
 }
 
 /* Subscriptions */
-.category-list .category#category-42::after {
+.category-list .category#category-48::after {
   mask-image: url("https://raw.githubusercontent.com/BluePicSoftware/helpscout-settings/master/icons/subscriptions.svg");
 }
 
